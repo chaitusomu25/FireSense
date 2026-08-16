@@ -1,0 +1,6 @@
+{
+  "name": "FireSense - AI Forest Fire Early Warning & Incident Command",
+  "description": "AI-Powered Forest Fire Early Warning, Risk Matrix Mapping, Real-time Satellite Intelligence & Emergency Officer Dispatch System.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
